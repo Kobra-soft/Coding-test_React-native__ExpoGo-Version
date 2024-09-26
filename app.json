@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "react-native-coding-test",
+    "slug": "react-native-coding-test",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ef6f8330-2e53-4f25-a6e5-3ff5bf83c208"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/ef6f8330-2e53-4f25-a6e5-3ff5bf83c208"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
